@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Ming Wu
+CTO of [Conflux](https://www.conflux-chain.org)
 
 You can use the [editor on GitHub](https://github.com/sparkmiw/mingwu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
