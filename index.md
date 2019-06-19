@@ -1,38 +1,8 @@
-## Ming Wu
+# Ming Wu
 CTO of [Conflux](https://www.conflux-chain.org)
+Email: ming@conflux-chain.org
 
-You can use the [editor on GitHub](https://github.com/sparkmiw/mingwu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## About
+I am now a founding member of Conflux. Before joining the Conflux team, I was a senior researcher at Systems Research Group in Microsoft Research Asia. My expertise is in the design and implementation of distributed systems. I designed and implemented large-scale and highly efficient distributed machine learning systems which were applied in Microsoft products. I earned Ph.D. degree from the Institute of Computing Technology, Chinese Academy of Sciences in 2007, and bachelor degree from University of Science and Technology of China in 2002. My major research interests include distributed transaction processing systems, graph computing engines, and artificial intelligence platforms. I have publications on top conferences in computer system area, such as SOSP, OSDI, NSDI, ATC, EuroSys, SoCC, VLDB, etc. I served as Program Committee Members of OSDI, ASPLOS, HotDep, and MiddleWare, and also the Publication Chair of SOSP'17.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sparkmiw/mingwu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Publications
