@@ -1,4 +1,6 @@
 # Ming Wu
+<p><img src="ming.jpg" width="200" /></p>
+
 CTO of [Conflux](https://www.conflux-chain.org)
 
 Email: ming@conflux-chain.org
