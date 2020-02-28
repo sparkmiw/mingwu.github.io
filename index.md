@@ -11,6 +11,8 @@ I am now a founding member of Conflux. Before joining the Conflux team, I was a 
 My research interests include distributed system, transaction processing system, blockchain system, distributed graph engine, machine learning, and deep learning framework, etc.
 
 ## Publications
+### Conference:
+
 [NeuGraph: Parallel Deep Neural Network Computation on Large Graphs.](https://www.usenix.org/conference/atc19/presentation/ma) Lingxiao Ma, Zhi Yang, Youshan Miao, Jilong Xue, Ming Wu, Lidong Zhou, and Yafei Dai. *In proceedings of USENIX ATC 2019*
 
 [Efficient and Effective Sparse LSTM on FPGA with Bank-Balanced Sparsity.](https://dl.acm.org/citation.cfm?id=3293898) Shijie Cao, Chen Zhang, Zhuliang Yao, Wencong Xiao, Lanshun Nie, Dechen Zhang, Yunxin Liu, Ming Wu, and Lintao Zhang. *In proceedings of FPGA 2019*
@@ -53,3 +55,6 @@ My research interests include distributed system, transaction processing system,
 
 [Task-pushing: A Scalable Parallel GC Marking Algorithm without Synchronization Operations.](https://ieeexplore.ieee.org/document/4228045/citations?tabFilter=papers#citations) Ming Wu and Xiao-Feng Li. *In Proceedings of IPDPS 2007*
 
+### Journal:
+
+[Distributed Graph Computation Meets Machine Learning.](https://ieeexplore.ieee.org/document/8974443) Wencong Xiao, Jilong Xue, Youshan Miao, Zhen Li, Cheng Chen, Ming Wu, Wei Li, and Lidong Zhou. *In IEEE Transactions on Parallel and Distributed Systems ( Volume: 31 , Issue: 7 , July 1 2020 )*
