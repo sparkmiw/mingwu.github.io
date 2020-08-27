@@ -13,6 +13,8 @@ My research interests include distributed system, transaction processing system,
 ## Publications
 ### Conference:
 
+[A Decentralized Blockchain with High Throughput and Fast Confirmation.](https://www.usenix.org/system/files/atc20-li-chenxing.pdf) Chenxing Li, Peilun Li, Dong Zhou, Zhe Yang, Ming Wu, Guang Yang, Wei Xu, Fan Long, and Andrew Chi-Chih Yao. *In proceedings of USENIX ATC 2020*
+
 [NeuGraph: Parallel Deep Neural Network Computation on Large Graphs.](https://www.usenix.org/conference/atc19/presentation/ma) Lingxiao Ma, Zhi Yang, Youshan Miao, Jilong Xue, Ming Wu, Lidong Zhou, and Yafei Dai. *In proceedings of USENIX ATC 2019*
 
 [Efficient and Effective Sparse LSTM on FPGA with Bank-Balanced Sparsity.](https://dl.acm.org/citation.cfm?id=3293898) Shijie Cao, Chen Zhang, Zhuliang Yao, Wencong Xiao, Lanshun Nie, Dechen Zhang, Yunxin Liu, Ming Wu, and Lintao Zhang. *In proceedings of FPGA 2019*
