@@ -19,6 +19,8 @@ My research interests include distributed system, transaction processing system,
 
 [Utilizing parallelism in smart contracts on decentralized blockchains by taming application-inherent conflicts](https://dl.acm.org/doi/10.1145/3510003.3510086) Péter Garamvölgyi, Yuxi Liu, Dong Zhou, Fan Long, Ming Wu. *In proceedings of ICSE 2022*
 
+[Refty: Refinement Types for Valid Deep Learning Models](https://dl.acm.org/doi/abs/10.1145/3510003.3510077) Yanjie Gao, Zhengxian Li, Haoxiang Lin, Hongyu Zhang, Ming Wu, Mao Yang. *In proceedings of ICSE 2022*
+
 [Shrec: Bandwidth-Efficient Transaction Relay in High-Throughput Blockchain Systems.](https://dl.acm.org/doi/10.1145/3419111.3421283) Yilin Han, Chenxing Li, Peilun Li, Ming Wu, Dong Zhou, Fan Long. *In proceedings of SoCC 2020*
 
 [A Decentralized Blockchain with High Throughput and Fast Confirmation.](https://www.usenix.org/system/files/atc20-li-chenxing.pdf) Chenxing Li, Peilun Li, Dong Zhou, Zhe Yang, Ming Wu, Guang Yang, Wei Xu, Fan Long, and Andrew Chi-Chih Yao. *In proceedings of USENIX ATC 2020*
