@@ -13,15 +13,17 @@ My research interests include distributed system, transaction processing system,
 ## Publications
 ### Conference:
 
-[dl²: Detecting Communication Deadlocks in Deep Learning Jobs](https://dl.acm.org/doi/10.1145/3696630.3728529) Yanjie Gao, Jiyu Luo, Haoxiang Lin, Hongyu Zhang, Ming Wu, Mao Yang. *FSE 2025 Industry Track*
+[dl²: Detecting Communication Deadlocks in Deep Learning Jobs.](https://dl.acm.org/doi/10.1145/3696630.3728529) Yanjie Gao, Jiyu Luo, Haoxiang Lin, Hongyu Zhang, Ming Wu, Mao Yang. *FSE 2025 - Industry Track*
+
+[Reduction Fusion for Optimized Distributed Data-Parallel Computations via Inverse Recomputation.](https://dl.acm.org/doi/abs/10.1145/3696630.3728496) Haoxiang Lin, Yang Wang, Yanjie Gao, Hongyu Zhang, Ming Wu, Mao Yang. *FSE 2025 - Ideas, Visions, and Reflections Track*
 
 [LVMT: An Efficient Authenticated Storage for Blockchain.](https://www.usenix.org/system/files/osdi23-li-chenxing.pdf) Chenxing Li, Sidi Mohamed Beillahi, Guang Yang, Ming Wu, Wei Xu, Fan Long. *In proceedings of OSDI 2023*
 
-[Mercury: Fast Transaction Broadcast in High Performance Blockchain System](https://infocom.info/day/2/track/Track%20A) Mingxun Zhou, Yilin Han, Liyi Zeng, Peilun Li, Fan Long, Dong Zhou, Ivan Beschastnikh, Ming Wu. *IEEE INFOCOM 2023*
+[Mercury: Fast Transaction Broadcast in High Performance Blockchain System.](https://infocom.info/day/2/track/Track%20A) Mingxun Zhou, Yilin Han, Liyi Zeng, Peilun Li, Fan Long, Dong Zhou, Ivan Beschastnikh, Ming Wu. *IEEE INFOCOM 2023*
 
-[Utilizing parallelism in smart contracts on decentralized blockchains by taming application-inherent conflicts](https://dl.acm.org/doi/10.1145/3510003.3510086) Péter Garamvölgyi, Yuxi Liu, Dong Zhou, Fan Long, Ming Wu. *In proceedings of ICSE 2022*
+[Utilizing parallelism in smart contracts on decentralized blockchains by taming application-inherent conflicts.](https://dl.acm.org/doi/10.1145/3510003.3510086) Péter Garamvölgyi, Yuxi Liu, Dong Zhou, Fan Long, Ming Wu. *In proceedings of ICSE 2022*
 
-[Refty: Refinement Types for Valid Deep Learning Models](https://dl.acm.org/doi/abs/10.1145/3510003.3510077) Yanjie Gao, Zhengxian Li, Haoxiang Lin, Hongyu Zhang, Ming Wu, Mao Yang. *In proceedings of ICSE 2022*
+[Refty: Refinement Types for Valid Deep Learning Models.](https://dl.acm.org/doi/abs/10.1145/3510003.3510077) Yanjie Gao, Zhengxian Li, Haoxiang Lin, Hongyu Zhang, Ming Wu, Mao Yang. *In proceedings of ICSE 2022*
 
 [Shrec: Bandwidth-Efficient Transaction Relay in High-Throughput Blockchain Systems.](https://dl.acm.org/doi/10.1145/3419111.3421283) Yilin Han, Chenxing Li, Peilun Li, Ming Wu, Dong Zhou, Fan Long. *In proceedings of SoCC 2020*
 
