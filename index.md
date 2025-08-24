@@ -13,6 +13,8 @@ My research interests include distributed system, transaction processing system,
 ## Publications
 ### Conference:
 
+[dl²: Detecting Communication Deadlocks in Deep Learning Jobs](https://dl.acm.org/doi/10.1145/3696630.3728529) Yanjie Gao, Jiyu Luo, Haoxiang Lin, Hongyu Zhang, Ming Wu, Mao Yang. *FSE 2025 Industry Track*
+
 [LVMT: An Efficient Authenticated Storage for Blockchain.](https://www.usenix.org/system/files/osdi23-li-chenxing.pdf) Chenxing Li, Sidi Mohamed Beillahi, Guang Yang, Ming Wu, Wei Xu, Fan Long. *In proceedings of OSDI 2023*
 
 [Mercury: Fast Transaction Broadcast in High Performance Blockchain System](https://infocom.info/day/2/track/Track%20A) Mingxun Zhou, Yilin Han, Liyi Zeng, Peilun Li, Fan Long, Dong Zhou, Ivan Beschastnikh, Ming Wu. *IEEE INFOCOM 2023*
