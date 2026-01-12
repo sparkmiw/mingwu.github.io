@@ -13,7 +13,9 @@ My research interests include distributed system, transaction processing system,
 ## Publications
 ### Conference:
 
-[HEMVM: A Heterogeneous Blockchain Framework for Interoperable Virtual Machines.](https://dl.acm.org/doi/10.1145/3763076) Vladyslav Nekriach, Sidi Mohamed Beillahi, Chenxing Li, Peilun Li, Ming Wu, Andreas Veneris, Fan Long. *Proceedings of the ACM on Programming Languages, Volume 9, Issue OOPSLA2, 2025*
+[CCAgent: Coordinating Collaborative Data Scaling for Operating System Agents via Web3.](https://dl.acm.org/doi/10.1145/3746252.3761392) Liang Chen, Haozhe Zhao, Yinzhen Huang, Yang Luo, Tsekai Lin, Weichu Xie, Ruoyu Wu, Peiyi Wang, Runxin Xu, Ming Wu, Baobao Chang. *In proceedings of the 34th ACM International Conference on Information and Knowledge Management, CIKM 2025*
+
+[HEMVM: A Heterogeneous Blockchain Framework for Interoperable Virtual Machines.](https://dl.acm.org/doi/10.1145/3763076) Vladyslav Nekriach, Sidi Mohamed Beillahi, Chenxing Li, Peilun Li, Ming Wu, Andreas Veneris, Fan Long. *In proceedings of the ACM on Programming Languages, Volume 9, Issue OOPSLA2, 2025*
 
 [dl²: Detecting Communication Deadlocks in Deep Learning Jobs.](https://dl.acm.org/doi/10.1145/3696630.3728529) Yanjie Gao, Jiyu Luo, Haoxiang Lin, Hongyu Zhang, Ming Wu, Mao Yang. *FSE 2025 - Industry Track*
 
