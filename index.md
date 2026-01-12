@@ -13,7 +13,9 @@ My research interests include distributed system, transaction processing system,
 ## Publications
 ### Conference:
 
-[CCAgent: Coordinating Collaborative Data Scaling for Operating System Agents via Web3.](https://dl.acm.org/doi/10.1145/3746252.3761392) Liang Chen, Haozhe Zhao, Yinzhen Huang, Yang Luo, Tsekai Lin, Weichu Xie, Ruoyu Wu, Peiyi Wang, Runxin Xu, Ming Wu, Baobao Chang. *In proceedings of the 34th ACM International Conference on Information and Knowledge Management, CIKM 2025*
+[Mind the Cost of Scaffold! Benign Clients May Even Become Accomplices of Backdoor Attack.](https://openaccess.thecvf.com/content/ICCV2025/html/Han_Mind_the_Cost_of_Scaffold_Benign_Clients_May_Even_Become_ICCV_2025_paper.html) Xingshuo Han, Xuanye Zhang, Xiang Lan, Haozhao Wang, Shengmin Xu, Shen Ren, Jason Zeng, Ming Wu, Michael Heinrich, Tianwei Zhang. *In proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2025*
+
+[CCAgent: Coordinating Collaborative Data Scaling for Operating System Agents via Web3.](https://dl.acm.org/doi/10.1145/3746252.3761392) Liang Chen, Haozhe Zhao, Yinzhen Huang, Yang Luo, Tsekai Lin, Weichu Xie, Ruoyu Wu, Peiyi Wang, Runxin Xu, Ming Wu, Baobao Chang. *In proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM), 2025*
 
 [HEMVM: A Heterogeneous Blockchain Framework for Interoperable Virtual Machines.](https://dl.acm.org/doi/10.1145/3763076) Vladyslav Nekriach, Sidi Mohamed Beillahi, Chenxing Li, Peilun Li, Ming Wu, Andreas Veneris, Fan Long. *In proceedings of the ACM on Programming Languages, Volume 9, Issue OOPSLA2, 2025*
 
